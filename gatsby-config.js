@@ -2,9 +2,9 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
-  pathPrefix: "/diggital-web-demo",
+  pathPrefix: "/gatsby-didact",
   siteMetadata: {
-    title: `diggital-webb`,
+    title: `gatsby-didact`,
     siteUrl: `https://www.yourdomain.tld`,
     name: "Gatsby Didact",
   },
