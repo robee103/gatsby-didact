@@ -8,6 +8,7 @@ module.exports = {
     siteUrl: `https://www.yourdomain.tld`,
     name: "Gatsby Didact",
   },
+  pathPrefix: "/gatsby-didact",
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
